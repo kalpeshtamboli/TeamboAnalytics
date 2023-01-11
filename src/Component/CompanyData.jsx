@@ -1,0 +1,211 @@
+export const CompanyData = [{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},{
+    "clientName":'ChaiCup',
+    "Tasks":65,
+    "LiveTasks":2,
+    "ManHours":1.2
+},];
